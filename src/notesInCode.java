@@ -12,7 +12,8 @@ public class notesInCode {
 				+ "\n decleration: whenever you define a new variable WITH its type"
 				+ "\n Assignment: whenever you change the value of a variable by giving it a new value "
 				+ "\n Initialization: an assignment that is done TOGETHER with the decleration, or the first assignment that is done with a variable"
-				+ "\n String is a built in clas for Java, anything in quote marks is am instance of the string class");
+				+ "\n String is a built in clas for Java, anything in quote marks is am instance of the string class"
+				+ "\n indeterminate loop: used for when we don't know how many times a loop should be processed the while loop is an example");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
