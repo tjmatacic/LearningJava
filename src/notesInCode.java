@@ -13,7 +13,11 @@ public class notesInCode {
 				+ "\n Assignment: whenever you change the value of a variable by giving it a new value "
 				+ "\n Initialization: an assignment that is done TOGETHER with the decleration, or the first assignment that is done with a variable"
 				+ "\n String is a built in clas for Java, anything in quote marks is am instance of the string class"
-				+ "\n indeterminate loop: used for when we don't know how many times a loop should be processed the while loop is an example");
+				+ "\n indeterminate loop: used for when we don't know how many times a loop should be processed the while loop is an example"
+				+ "\n for if else if we have multiple selections if/else can be cumbersome, java uses a switch statement to deal with this"
+				+ "\n switch statement uses 'switch' (choice) and 'break'"
+				+ "\n arrays denoted with []"
+				+ "chapter 3 finished!");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
