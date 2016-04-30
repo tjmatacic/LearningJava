@@ -17,7 +17,13 @@ public class notesInCode {
 				+ "\n for if else if we have multiple selections if/else can be cumbersome, java uses a switch statement to deal with this"
 				+ "\n switch statement uses 'switch' (choice) and 'break'"
 				+ "\n arrays denoted with []"
-				+ "chapter 3 finished!");
+				+ "chapter 3 finished!"
+				+ "\n object oriented programming (OOP) puts the data first then looks at the algorithims that perate the data"
+				+ "\n Class= blueprint which objects are actually made. Classes are 'cookie cutters' and objects are 'cookies'"
+				+ "\nInstance: when you construct an object from a class"
+				+ "\n Encapsulation: (data hiding) is a key concept in OOP, combining data behavior in one package and hiding it from user the dat are called 'instance fields' and the functions that operate the data are called 'methods'"
+				+ "\n3 key characterists of objects: 1.behavior (what you can do with it) 2.State (how does it react when you apply those methods)3. identity(how it distinguishes its self from  others that may have the same behavior and state"
+				+ "\n common relationships between classes 1.dependence (uses-a) 2.aggregation (has-a) 3. inheritence (is-a)");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
