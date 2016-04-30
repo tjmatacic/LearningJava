@@ -26,7 +26,9 @@ public class notesInCode {
 				+ "\n common relationships between classes 1.dependence (uses-a) 2.aggregation (has-a) 3. inheritence (is-a)"
 				+ "\n\t\t!!page 121 has great info on Constructors!!"
 				+ "\nmutator Methods: methods that chang einstance fields (accessor methods only access instance fields"
-				+ "\n");
+				+ "\nmethods have the ability to access the private data of all objects in its class, private methods: when implementing a class we make all data fields private since public data is dangerious"
+				+ "\n private methods can only be called upon from other methods of the same class"
+				+ "static: if you deermine a field as static it measn that there is only one such field per class");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }

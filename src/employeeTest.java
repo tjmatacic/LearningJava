@@ -25,8 +25,11 @@ public class employeeTest {
 
 class Employee
 {
+	private int id;
+	private static int nextId=1;
 	public Employee(String n, double s, int year, int month, int day)
 	{
+		
 		name=n;
 		salary=s;
 		GregorianCalendar calendar = new GregorianCalendar(year, month-1, day);
