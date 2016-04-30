@@ -23,7 +23,10 @@ public class notesInCode {
 				+ "\nInstance: when you construct an object from a class"
 				+ "\n Encapsulation: (data hiding) is a key concept in OOP, combining data behavior in one package and hiding it from user the dat are called 'instance fields' and the functions that operate the data are called 'methods'"
 				+ "\n3 key characterists of objects: 1.behavior (what you can do with it) 2.State (how does it react when you apply those methods)3. identity(how it distinguishes its self from  others that may have the same behavior and state"
-				+ "\n common relationships between classes 1.dependence (uses-a) 2.aggregation (has-a) 3. inheritence (is-a)");
+				+ "\n common relationships between classes 1.dependence (uses-a) 2.aggregation (has-a) 3. inheritence (is-a)"
+				+ "\n\t\t!!page 121 has great info on Constructors!!"
+				+ "\nmutator Methods: methods that chang einstance fields (accessor methods only access instance fields"
+				+ "\n");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }

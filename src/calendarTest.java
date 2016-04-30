@@ -2,6 +2,7 @@ import java.util.*;
 public class calendarTest {
 	public static void main (String[] args)
 	{
+		/* if I wanted to change the date I'd use the set method: deadline.set(Calendar.DAY, 15)*/
 		GregorianCalendar d = new GregorianCalendar();
 		
 		int today = d.get(Calendar.DAY_OF_MONTH);
