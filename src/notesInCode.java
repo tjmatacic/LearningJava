@@ -28,7 +28,9 @@ public class notesInCode {
 				+ "\nmutator Methods: methods that chang einstance fields (accessor methods only access instance fields"
 				+ "\nmethods have the ability to access the private data of all objects in its class, private methods: when implementing a class we make all data fields private since public data is dangerious"
 				+ "\n private methods can only be called upon from other methods of the same class"
-				+ "static: if you deermine a field as static it measn that there is only one such field per class");
+				+ "static: if you deermine a field as static it measn that there is only one such field per class, instance fields should almost always be set as private so encapsulation isn't ruined"
+				+ "\nConstructor: has the same name as a class, a class can have more than 1 constructor, they may take 0, 1, or more parameters, has no return value, IS ALWAYS CALLED WITH THE NEW OPERATOR"
+				+ "\n Static Modifier: if you define a filed as static then there is only one such field per class, static fields belong to the class not individual objects");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
