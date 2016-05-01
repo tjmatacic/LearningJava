@@ -22,7 +22,7 @@ public class staticTest {
 	}
 }
 
-class Employee
+/*class Employee
 {
 	public Employee(String n, double s)
 	{
@@ -62,4 +62,4 @@ class Employee
 	private double salary;
 	private int id;
 	private static int nextId = 1;
-}
+}*/
