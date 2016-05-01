@@ -30,7 +30,10 @@ public class notesInCode {
 				+ "\n private methods can only be called upon from other methods of the same class"
 				+ "static: if you deermine a field as static it measn that there is only one such field per class, instance fields should almost always be set as private so encapsulation isn't ruined"
 				+ "\nConstructor: has the same name as a class, a class can have more than 1 constructor, they may take 0, 1, or more parameters, has no return value, IS ALWAYS CALLED WITH THE NEW OPERATOR"
-				+ "\n Static Modifier: if you define a filed as static then there is only one such field per class, static fields belong to the class not individual objects");
+				+ "\n Static Modifier: if you define a filed as static then there is only one such field per class, static fields belong to the class not individual objects"
+				+ "\n Default Constructor: a constructor with no parameters, data is 0 boolian is 'false' and object variables are 'null' using the 'this' keyword calls a constructor of the same class"
+				+ "\nPackage: a group of classes. a class can use all classes from it own package and all public classes from other packages"
+				+"\nClass design hints:1always keep data private 2.always initialize data 3.dont use too many basic types in a class 4.not all fields need individual field accessors and mutators 5.use a standard form for class definitions 6.break up classes with too many responsibilities 7. make names and methods reflect their responsibility");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
