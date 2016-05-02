@@ -33,7 +33,10 @@ public class notesInCode {
 				+ "\n Static Modifier: if you define a filed as static then there is only one such field per class, static fields belong to the class not individual objects"
 				+ "\n Default Constructor: a constructor with no parameters, data is 0 boolian is 'false' and object variables are 'null' using the 'this' keyword calls a constructor of the same class"
 				+ "\nPackage: a group of classes. a class can use all classes from it own package and all public classes from other packages"
-				+"\nClass design hints:1always keep data private 2.always initialize data 3.dont use too many basic types in a class 4.not all fields need individual field accessors and mutators 5.use a standard form for class definitions 6.break up classes with too many responsibilities 7. make names and methods reflect their responsibility");
+				+"\nClass design hints:1always keep data private 2.always initialize data 3.dont use too many basic types in a class 4.not all fields need individual field accessors and mutators 5.use a standard form for class definitions 6.break up classes with too many responsibilities 7. make names and methods reflect their responsibility"
+				+ "\n CH5 Inheritance"
+				+"\n Inheritance:building new classes that upon existing classes, you inherit methods and fields and you add new methods and fields to adapt your new class to new situations"
+				+"\n we use the keyword 'extends' to denote inheritance");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
