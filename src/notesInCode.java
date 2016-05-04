@@ -36,7 +36,9 @@ public class notesInCode {
 				+"\nClass design hints:1always keep data private 2.always initialize data 3.dont use too many basic types in a class 4.not all fields need individual field accessors and mutators 5.use a standard form for class definitions 6.break up classes with too many responsibilities 7. make names and methods reflect their responsibility"
 				+ "\n CH5 Inheritance"
 				+"\n Inheritance:building new classes that upon existing classes, you inherit methods and fields and you add new methods and fields to adapt your new class to new situations"
-				+"\n we use the keyword 'extends' to denote inheritance");
+				+"\n we use the keyword 'extends' to denote inheritance"
+				+ "\n Casting: forcing a conversion from one variable type to another, you can cast only within an inheritance hierarchy"
+				+ "\n toString method:returns a string that represents the value of this object, almost any class will overide this method to give you a printed representation of the object's current state.");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }

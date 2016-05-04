@@ -20,7 +20,7 @@ public class ManagerTest {
 		for(int i =0; i< staff.length; i++)
 		{
 			Employee e = staff[i];
-			System.out.println("name=" +e.getName()+ ",salary=" +e.getSalary());
+			System.out.println("name= " +e.getName()+ ",salary= " +e.getSalary());
 		}
 	}
 
