@@ -38,7 +38,11 @@ public class notesInCode {
 				+"\n Inheritance:building new classes that upon existing classes, you inherit methods and fields and you add new methods and fields to adapt your new class to new situations"
 				+"\n we use the keyword 'extends' to denote inheritance"
 				+ "\n Casting: forcing a conversion from one variable type to another, you can cast only within an inheritance hierarchy"
-				+ "\n toString method:returns a string that represents the value of this object, almost any class will overide this method to give you a printed representation of the object's current state.");
+				+ "\n toString method:returns a string that represents the value of this object, almost any class will overide this method to give you a printed representation of the object's current state."
+				+ "\n arrayList class can grow and shrink to needed size without the neew of any coding"
+				+ "\nInheritance tips:1place common operands and fiels in superclass 2.don't use protected fields 3.is-a relationship 4.make all inherited methods make sense 5.polymorphism 6.don't overuse reflection"
+				+ "\nChapter 6:"
+				+ "\n");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }

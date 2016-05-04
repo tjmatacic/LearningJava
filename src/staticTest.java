@@ -1,4 +1,4 @@
-
+/*
 public class staticTest {
 	public static void main(String[] args)
 	{
@@ -22,7 +22,7 @@ public class staticTest {
 	}
 }
 
-/*class Employee
+class Employee
 {
 	public Employee(String n, double s)
 	{
