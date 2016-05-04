@@ -42,7 +42,7 @@ public class notesInCode {
 				+ "\n arrayList class can grow and shrink to needed size without the neew of any coding"
 				+ "\nInheritance tips:1place common operands and fiels in superclass 2.don't use protected fields 3.is-a relationship 4.make all inherited methods make sense 5.polymorphism 6.don't overuse reflection"
 				+ "\nChapter 6:"
-				+ "\n");
+				+ "\nIntefaces: ");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
