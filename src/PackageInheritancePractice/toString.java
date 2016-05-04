@@ -1,4 +1,4 @@
-package PackageInheritancePractice;
+/*package PackageInheritancePractice;
 
 public class toString 
 {
@@ -12,3 +12,4 @@ public class toString
 	}
 
 }
+*/
