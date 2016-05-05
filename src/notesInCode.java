@@ -18,6 +18,7 @@ public class notesInCode {
 				+ "\n switch statement uses 'switch' (choice) and 'break'"
 				+ "\n arrays denoted with []"
 				+ "chapter 3 finished!"
+				+ "\n\t\tCh4"
 				+ "\n object oriented programming (OOP) puts the data first then looks at the algorithims that perate the data"
 				+ "\n Class= blueprint which objects are actually made. Classes are 'cookie cutters' and objects are 'cookies'"
 				+ "\nInstance: when you construct an object from a class"
@@ -34,15 +35,16 @@ public class notesInCode {
 				+ "\n Default Constructor: a constructor with no parameters, data is 0 boolian is 'false' and object variables are 'null' using the 'this' keyword calls a constructor of the same class"
 				+ "\nPackage: a group of classes. a class can use all classes from it own package and all public classes from other packages"
 				+"\nClass design hints:1always keep data private 2.always initialize data 3.dont use too many basic types in a class 4.not all fields need individual field accessors and mutators 5.use a standard form for class definitions 6.break up classes with too many responsibilities 7. make names and methods reflect their responsibility"
-				+ "\n CH5 Inheritance"
+				+ "\n\t\tCH5 Inheritance"
 				+"\n Inheritance:building new classes that upon existing classes, you inherit methods and fields and you add new methods and fields to adapt your new class to new situations"
 				+"\n we use the keyword 'extends' to denote inheritance"
 				+ "\n Casting: forcing a conversion from one variable type to another, you can cast only within an inheritance hierarchy"
 				+ "\n toString method:returns a string that represents the value of this object, almost any class will overide this method to give you a printed representation of the object's current state."
 				+ "\n arrayList class can grow and shrink to needed size without the neew of any coding"
 				+ "\nInheritance tips:1place common operands and fiels in superclass 2.don't use protected fields 3.is-a relationship 4.make all inherited methods make sense 5.polymorphism 6.don't overuse reflection"
-				+ "\nChapter 6:"
-				+ "\nIntefaces: ");
+				+ "\n\t\tChapter 6:"
+				+ "\nIntefaces:not a class but a set of 'requirements' for classes that want to conform to the interface, all interface methods are public. the reason for interfaces is that Java is strongly typed the compiler needs to check that the method actually exists"
+				+ "\nHow to make class implement intefaces:1.declare that your class intends to implement the given interface 2.you supply definitions for all methods in the interface");
 		/*System.out.println("Class is a keyword and it's here to remind me that everything in a Java program lives in a class, ");*/
 	}
 }
