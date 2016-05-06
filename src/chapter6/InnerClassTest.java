@@ -17,14 +17,14 @@ public class InnerClassTest {
 		System.exit(0);
 	}
 }
-
+/*
 class BankAccount
 {
 	/**
 	 * Constructs a bank account with an initial balance
 	 * @param initialBalance the initial balance
 	 */
-	public BankAccount (double initialBalance)
+/*	public BankAccount (double initialBalance)
 	{
 		balance = initialBalance;
 	}
@@ -33,7 +33,7 @@ class BankAccount
 	 * Starts a simulation in which interest is added once per second
 	 * @param rate the interest rate in percent
 	 */
-	public void start(double rate)
+/*	public void start(double rate)
 	{
 		ActionListener adder = new InterestAdder (rate);
 		Timer t = new Timer(1000, adder);
@@ -69,3 +69,4 @@ class BankAccount
 	}
 }
 
+*/
