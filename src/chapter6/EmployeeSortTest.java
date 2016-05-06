@@ -1,4 +1,4 @@
-package chapter6;
+/*package chapter6;
 import java.util.*;
 
 public class EmployeeSortTest {
@@ -51,7 +51,7 @@ class Employee implements Comparable
 	 * @param otherObject another Employee object
 	 * @return a negative value if this employee has a lower salary than otherObject, 0 if the salaries are the same, positive otherwise 
 	 */
-	
+	/*
 	public int compareTo(Object otherObject)
 	{
 		Employee other = (Employee)otherObject;
@@ -61,4 +61,4 @@ class Employee implements Comparable
 	}
 	private String name;
 	private double salary;
-}
+}*/
