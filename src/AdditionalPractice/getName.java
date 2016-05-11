@@ -21,7 +21,7 @@ public class getName
 	
 	public void saying()
 	{
-		System.out.printf("My friend's name is", getName());
+		System.out.printf("My friend's name is %s\n", getName());
 	}
 	
 }

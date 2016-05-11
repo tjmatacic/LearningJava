@@ -6,8 +6,8 @@ public class ClassTester {
 		/*text textObject = new text();
 		textObject.simpleMessage();*/
 		
-		getName name = new getName("Tyler");
-				name.saying();
+		getName nameObject = new getName("Tyler");
+				nameObject.saying();
 	}
 
 }
